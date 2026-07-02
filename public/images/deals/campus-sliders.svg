@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 256 256" role="img">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="48%" r="55%">
+      <stop offset="0" stop-color="#f0f9ff"/>
+      <stop offset="1" stop-color="transparent"/>
+    </radialGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#0f172a" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="256" height="256" fill="none"/>
+  <circle cx="128" cy="128" r="112" fill="url(#glow)"/>
+  <g filter="url(#softShadow)">
+    
+    <ellipse cx="128" cy="190" rx="86" ry="10" fill="rgba(15,23,42,.16)"/>
+  
+        <path d="M35 166c37 8 91 8 161 0 16-2 26 4 31 17 2 7-3 13-14 13H54c-17 0-25-11-19-30z" fill="#e0f2fe" stroke="#0f172a" stroke-width="4"/>
+        <path d="M62 158c21-30 62-43 120-37 16 2 27 13 32 34" fill="#0284c7" stroke="#0f172a" stroke-width="4"/>
+        <path d="M79 150c28-9 63-12 105-8" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".75"/>
+        <path d="M42 183h178" stroke="#0f172a" stroke-width="8" stroke-linecap="round"/>
+      
+  </g>
+</svg>

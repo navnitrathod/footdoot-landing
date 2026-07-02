@@ -1,0 +1,19 @@
+# Footdoot
+
+> Footdoot is an AI-powered footwear marketplace that helps people find their
+> perfect shoe fit and shop with confidence online. Core differentiators: foot
+> scanning for cross-brand size recommendations, AR virtual try-on, comfort-score
+> prediction, and a curated catalog of 1000+ styles from top brands.
+
+## Key facts
+- Tagline: "Your perfect fit. Anywhere."
+- Foot scanning measures length, width and arch to recommend the right size per brand (a size 9 in one brand may fit like an 8.5 in another).
+- Virtual Try-On uses AR so shoppers see shoes on their own feet before buying.
+- 7-day easy returns and exchange on all orders.
+- 100% authentic products sourced from top brands.
+- Categories: Sneakers, Sports Shoes, Formal Shoes, Sandals & Floaters, Heels, Flats, Boots, Accessories.
+- Brands include Nike, adidas, PUMA, Skechers, Reebok, New Balance, ALDO, Clarks, Campus, Red Tape.
+
+## Contact
+- Support: support@footdoot.com
+- Phone: +91 98765 43210 (Mon–Sat, 9AM–9PM)
